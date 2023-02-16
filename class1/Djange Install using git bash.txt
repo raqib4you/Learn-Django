@@ -1,0 +1,88 @@
+# first we need to create an virtuale invironment
+
+1..we need to install git bash 
+
+2..go to the folder where we want to install django
+
+3...open git bash by clicking right button from mouse 
+
+4..write command "python -m venv (any name)" 
+
+# after this create some folder automatically into my folder 
+
+5..again write command " source env/Scripts/activate"
+ #you may check my giving commannd "pip freeze"
+
+6..again give command "pip install django"
+
+# check again my command "pip freeze"
+
+All done thanks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

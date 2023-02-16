@@ -1,0 +1,6 @@
+1..open folder where we want to install by clicking opening option from file option on pycharm
+2..then go to setting > Django practive>
+3..click python interpreters and create new virtuale invironment 
+4..then go to terminal from pycharm write command cmd.exe
+5..then write command pip install django
+done thanks 
