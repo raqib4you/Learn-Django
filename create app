@@ -1,3 +1,6 @@
+
+to create prooject "django-admin startproject 2ndweather"
+
 to create app 
 
 python manage.py " app name"
