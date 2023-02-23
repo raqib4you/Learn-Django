@@ -1,0 +1,9 @@
+for install 
+  go to the folder where we want to install
+  python -m venv env
+  
+ after install we need to ctivate it 
+  to actiate we need to go Script folder (cd)
+  then we need to run activate file (activate)
+  
+  to check pip list
