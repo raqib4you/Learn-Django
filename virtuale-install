@@ -10,4 +10,5 @@ for install
   
   to back directory cd ..
   
-
+now we need to create project 
+  django-admin startproject 2ndweather
