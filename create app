@@ -1,3 +1,20 @@
 to create app 
 
 python manage.py " app name"
+
+After Create app We need to go setting.py and add out app on install app section (33number line)
+
+
+then we need to create view 
+from django.http import HttpResponse (need to import)
+
+def weather (request):
+    return httpResponse ( " welcome to django")
+    
+    
+  we need to add out app with setting
+  
+    
+  then we need to create url
+    
+    
