@@ -17,6 +17,10 @@
 
 # check again my command "pip freeze"
 
+
+
+python manage.py runserver
+
 All done thanks 
 
 
