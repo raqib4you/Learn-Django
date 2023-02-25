@@ -17,7 +17,7 @@
 
 # check again my command "pip freeze"
 
-
+django-admin startproject "project name"
 
 python manage.py runserver
 
